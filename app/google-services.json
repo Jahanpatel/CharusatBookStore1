@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121095723122",
+    "firebase_url": "https://charusatbookstore-default-rtdb.firebaseio.com",
+    "project_id": "charusatbookstore",
+    "storage_bucket": "charusatbookstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121095723122:android:1c3d49830eb1db087a4aeb",
+        "android_client_info": {
+          "package_name": "com.example.charusatbookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121095723122-j0lmnn3i9mkcnu4udjna2geef2pukehm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrMOjIVjqUNBTKSlLPx8_FCpZyMe0HV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121095723122-j0lmnn3i9mkcnu4udjna2geef2pukehm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

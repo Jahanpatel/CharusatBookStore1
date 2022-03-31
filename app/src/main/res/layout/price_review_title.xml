@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/small">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/small">
+
+        <TextView
+            android:id="@+id/bookSubject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Book Subject"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/productPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:text="$90"
+        android:background="@drawable/grey_circular_border"
+        android:padding="@dimen/medium"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+</RelativeLayout>
